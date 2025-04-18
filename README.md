@@ -16,5 +16,5 @@ LigthCNN model has been introduced by [ A Light CNN for Deep Face Representation
 This has been used for dimensionality reduction using 1-d CONV. The paper (https://arxiv.org/abs/1910.0315)] has described the to be effictive and reduce model paramerters.
 
 **GradCAM**
-(!Gradcam)(Gradcam.JPG)
+![Gradcam](Gradcam.JPG)
 
