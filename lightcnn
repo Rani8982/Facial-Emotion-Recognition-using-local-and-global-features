@@ -1,5 +1,4 @@
-codes/lightcnn.py
-#import math
+import math
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
@@ -184,7 +183,3 @@ def LightCNN_29Layers_v2(**kwargs):
 
 def count_parameters(model):
     return sum(p.numel() for p in model.parameters() if p.requires_grad)
-
-code/LightCNN_29Layers_v2.py
-#model_29_v2 = LightCNN_29Layers_v2(num_classes=7)
-print(model_29_v2)
