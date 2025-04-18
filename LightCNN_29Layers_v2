@@ -1,0 +1,2 @@
+model_29_v2 = LightCNN_29Layers_v2(num_classes=7)
+print(model_29_v2)
