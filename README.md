@@ -2,8 +2,8 @@
 <br>
 Features from base model LightCNN29 V2 has been used through Attention which extracts features from both local and global.
 For Global 16x16x192 image size has been gone through GAP(Global Average Polling) and Local features are being extracted by splitting the image into four region net of size 8x8x192 each.
-
-
+<br>
+![Gradcam](model.png)
 
 **Dataset**
 <br>
