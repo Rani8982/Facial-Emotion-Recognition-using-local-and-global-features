@@ -7,7 +7,7 @@ For Global 16x16x192 image size has been gone through GAP(Global Average Polling
 
 **Dataset**
 <br>
-RAD-DB dataset has been used for this model which has 7 emotion classes.
+RAF-DB dataset has been used for this model which has 7 emotion classes.
 
 **LightCNN Model**
 <BR>
